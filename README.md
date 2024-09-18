@@ -25,8 +25,8 @@ Before running the project, ensure you have the following dependencies installed
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone <git@github.com:Sadique110/Desktop-AI-Assistant.git>
+   cd <Desktop-AI-Assistant>
    
 2. **Install Required Dependencies**:
  ```bash
